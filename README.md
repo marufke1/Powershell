@@ -1,4 +1,4 @@
-**DESCRIPTION:** **POWERSHELL SCRIPT 1:**
+- **DESCRIPTION:** **POWERSHELL SCRIPT 1:**
 This Powershell script allows to automate different important information about the system we need to execute everyday.
 1. BIOS DETAILS
 2. SYSTEM PROCESSING
@@ -7,7 +7,7 @@ This Powershell script allows to automate different important information about 
 5. DISK SPACE AVAILABE 
 6. O/S TYPE OF THE SYSTEM
 
-**DESCRIPTION** **POWERSHELL SCRIPT 2:**
+- **DESCRIPTION** **POWERSHELL SCRIPT 2:**
 This script is allowing to add each user present in a CSV to the ACTIVE DIRECTORY. The CSV will have all the user -related properties
 that need the script to create a user in AD. In case if any error, the script will log the error details in a text file. After successful
 creation , a message will appear in the console saying that the user has been created in Active directory.The first line will use to import the csv 
